@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shalvishahgithub/robofriends.git/static/css/main.91319358.chunk.css",
+    "main.js": "/shalvishahgithub/robofriends.git/static/js/main.4dfdf176.chunk.js",
+    "main.js.map": "/shalvishahgithub/robofriends.git/static/js/main.4dfdf176.chunk.js.map",
+    "runtime-main.js": "/shalvishahgithub/robofriends.git/static/js/runtime-main.406b9511.js",
+    "runtime-main.js.map": "/shalvishahgithub/robofriends.git/static/js/runtime-main.406b9511.js.map",
+    "static/css/2.31461e4f.chunk.css": "/shalvishahgithub/robofriends.git/static/css/2.31461e4f.chunk.css",
+    "static/js/2.7cd38aa7.chunk.js": "/shalvishahgithub/robofriends.git/static/js/2.7cd38aa7.chunk.js",
+    "static/js/2.7cd38aa7.chunk.js.map": "/shalvishahgithub/robofriends.git/static/js/2.7cd38aa7.chunk.js.map",
+    "static/js/3.7b14f539.chunk.js": "/shalvishahgithub/robofriends.git/static/js/3.7b14f539.chunk.js",
+    "static/js/3.7b14f539.chunk.js.map": "/shalvishahgithub/robofriends.git/static/js/3.7b14f539.chunk.js.map",
+    "index.html": "/shalvishahgithub/robofriends.git/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/shalvishahgithub/robofriends.git/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.91319358.chunk.css.map": "/shalvishahgithub/robofriends.git/static/css/main.91319358.chunk.css.map",
+    "static/js/2.7cd38aa7.chunk.js.LICENSE.txt": "/shalvishahgithub/robofriends.git/static/js/2.7cd38aa7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406b9511.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.7cd38aa7.chunk.js",
+    "static/css/main.91319358.chunk.css",
+    "static/js/main.4dfdf176.chunk.js"
+  ]
+}
